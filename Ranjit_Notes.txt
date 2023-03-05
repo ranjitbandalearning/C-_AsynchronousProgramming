@@ -1,0 +1,2 @@
+With this article it is clear that you can write ASYNCHRONUS PROGRAMMING using different models/patterns but TPL approach is the latest one and is recommended to write any ASYNCHRONOUS programs in the current era(year 2023)
+"D:\P\gggg\ranjitbandalearning\C#_AsynchronousProgramming\Asynchronous programming patterns _ Microsoft Learn.pdf"
